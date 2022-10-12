@@ -18,10 +18,10 @@
 			
 		}
 		
-		public function testSName(){
+		/*public function testSName(){
 			$this->StudentTestInstance->set_surname($this->surname);
 			$this->assertEquals($this->surname, $this->StudentTestInstance->get_surname());
 			
-		}
+		}*/
 	}
 ?>
